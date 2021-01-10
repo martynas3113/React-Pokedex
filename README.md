@@ -8,6 +8,6 @@ Pokedex mini project that shows 8 different pokecards. Goal of this project was 
 <b>Features:</b>
 - Displays different cards on refresh
 - Sums total EXP on each card in hand and displays total
-- Compares total EXp of both hands and displays winning hand
+- Compares total EXP of both hands and displays winning hand
 
 Site published at: https://react-pokedex55.netlify.app/
