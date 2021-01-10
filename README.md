@@ -1,4 +1,4 @@
-##React-pokedex
+#React-pokedex
 
 #### Build with: Create-react-app
 
