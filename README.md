@@ -1,4 +1,4 @@
-#React-pokedex
+## React-pokedex
 
 #### Build with: Create-react-app
 
@@ -10,3 +10,4 @@ Pokedex mini project that shows 8 different pokecards. Goal of this project was 
 - Sums total EXP on each card in hand and displays total
 - Compares total EXp of both hands and displays winning hand
 
+Site published at: https://react-pokedex55.netlify.app/
