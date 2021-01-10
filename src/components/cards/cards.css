@@ -1,0 +1,45 @@
+.card {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: 4px 4px 8px rgb(95, 90, 90);
+    padding: 30px;
+    width: 300px;
+    height: 320px;
+    
+    position: relative;
+}
+
+    .card-name {
+        font-size: 25px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .card-img{
+        position: absolute;
+        top: 50%;
+        left: 52%;
+        transform: translate(-50% , -50%);
+        margin: 0;
+        padding: 0%;
+        width: 150px;
+        height: 150px;
+        transition: all 0.5s ease-in-out;
+    }
+        .card:hover > .card-img {
+            
+            width: 200px;
+            height: 200px;
+            opacity: 0.8;
+        }
+
+    .card-type {
+        margin-top:200px;
+        font-size: 18px;
+    }
+
+    .card-exp {
+        font-size: 18px;  
+    }

@@ -1,0 +1,25 @@
+.pokedex{
+    padding-top: 90px;
+}
+
+.pokedex-exp {
+    text-align: center;
+    padding-bottom: 10px;
+    margin-top: -30px;
+}
+
+.pokedex-state {
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+}
+.pokedex-cards {
+    
+    display:flex ;
+    flex-wrap: wrap;
+    row-gap: 30px;
+    column-gap: 60px;
+    justify-content: center;
+    
+
+}
